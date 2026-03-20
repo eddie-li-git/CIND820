@@ -1,6 +1,7 @@
 # CIND820
 Repository for my CIND820 project course.
-The working dataset for this project can be found at https://www.kaggle.com/datasets/thedevastator/global-video-game-sales-and-reviews
+The working dataset for this project can be found at the following link or in the "Misc Files" folder:
+https://www.kaggle.com/datasets/thedevastator/global-video-game-sales-and-reviews
 
 ## Project Design
 - Provided context and a possible dataset
