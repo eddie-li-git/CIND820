@@ -16,3 +16,7 @@ https://www.kaggle.com/datasets/thedevastator/global-video-game-sales-and-review
 - Data and trend analysis of the dataset
 - Data preprocessing of the dataset
 - Feature and model selection for a nonlinear model. Nonlinear machine learning models evaluated for effectiveness using R^2, RMSE, and MAE.
+
+## Final Report / Presentation
+
+##Steps for Reproducing Results
