@@ -18,5 +18,12 @@ https://www.kaggle.com/datasets/thedevastator/global-video-game-sales-and-review
 - Feature and model selection for a nonlinear model. Nonlinear machine learning models evaluated for effectiveness using R^2, RMSE, and MAE.
 
 ## Final Report / Presentation
+- Compilation of the important sections of Project Design, Literature Review, and Initial Results
+- Reflection on the limitations and ethical considerations of this project and other similar projects
+- List of considerations for future projects with a similar scope
 
 ## Steps for Reproducing Results
+- Download data set from the Kaggle link provided at the top of this page
+- Download the Final Report version of the code from the Code Files folder of this repository
+- Run the Final Report version of the code file using a python compiler
+- Record results (parameters for machine learning models can be adjusted for a different result)
